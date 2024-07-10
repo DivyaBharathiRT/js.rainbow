@@ -1,0 +1,16 @@
+body{
+    display: flex;
+   background-color: antiquewhite;
+   top:50px;
+   position: absolute;
+   top: 250px;
+   left: 680px;
+   border: 3px solid black;
+   height: 100px;
+   width: 100px;
+   font-size: larger;
+   border-radius: 50%;
+
+
+
+}
